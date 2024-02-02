@@ -1,0 +1,24 @@
+Informe Explicativo:
+
+La suite de pruebas funcional para la funcionalidad "Historial de Pedidos" incluye escenarios que cubren todos los criterios de aceptación definidos en la historia de usuario. Los escenarios abordan tanto casos positivos como negativos para garantizar una cobertura completa.
+
+1. El usuario registrado puede ver el historial de pedidos desde el menú de navegación:
+Verifica que los usuarios puedan encontrar y acceder al historial de pedidos después de iniciar sesión.
+
+2. El usuario registrado puede ver la lista de todos los pedidos anteriores:
+Asegura que los usuarios vean una lista completa de sus pedidos anteriores con detalles relevantes.
+
+3. El usuario registrado puede hacer clic en un pedido para ver más detalles:
+Verifica que los usuarios puedan hacer clic en un pedido específico y ver detalles adicionales, incluyendo la lista de productos en ese pedido.
+
+4. El usuario registrado puede ver los detalles de los productos en su pedido:
+Asegura que los usuarios puedan ver detalles específicos de cada producto en un pedido.
+
+5. El usuario no ha realizado compras:
+Verifica que el sistema maneje adecuadamente la situación donde un usuario intenta acceder al historial de pedidos sin tener pedidos anteriores.
+
+6. El usuario accede al historial de pedidos, cuando este ha cancelado uno de ellos
+Verifica que cuando un usuario cancela un pedido se le muestren las mismas caracteristicas que un pedido en estado finalizado o en trascurso.
+
+
+Estos escenarios proporcionan una cobertura completa de pruebas para la funcionalidad "Historial de Pedidos" y están diseñados para garantizar un funcionamiento robusto y sin problemas en diferentes situaciones.
